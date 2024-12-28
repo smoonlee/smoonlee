@@ -28,7 +28,7 @@ Feel free to reach out or follow me on my socials:
 </a>
 <p></p>
 
-> *Note: Most Used languages reflect my public code's language distribution and not necessarily my skill level.*
+> *Note: Most Used Languages reflect my public code's language distribution and not necessarily my skill level.*
 
 [![Simon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smoonlee&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

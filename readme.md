@@ -1,5 +1,5 @@
 # Hey, I'm Simon 🙋‍♂️  
-![Github Welcome Header Image](https://github.com/smoonlee/smoonlee/blob/main/github-profile-header-image-mk1.png)
+![github-profile](https://github.com/user-attachments/assets/6ec2af58-9865-490b-b383-b4e3e3b5bf71)
 
 ### 👋 About Me  
 I’m an Ops and Infrastructure professional who transitioned into a Cloud/DevOps Consultant, specializing in Azure and automation. While I still have a soft spot for Hyper-V, my primary focus is on cloud technologies.

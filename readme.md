@@ -2,11 +2,11 @@
 ![Github Welcome Header Image](https://github.com/smoonlee/smoonlee/blob/main/github-profile-header-image-mk1.png)
 
 ### 👋 About Me
-I'm a developer passionate about building scalable, efficient solutions. I love exploring new technologies, contributing to open-source, and solving complex problems with creative solutions.
+I’m Ops and Infrastructure who transitioned into a Cloud/DevOps Consultant, with a deep passion for Azure and Automation. Although I still have a soft spot for Hyper-V, my focus is primarily on cloud technologies.
 
-- 💻 Currently working on cloud automation using Azure
-- 🚀 Writing a blog about tech, development, and automation
-- 🎮 Hobbies include gaming, coding, photography and exploring new tech
+💻 Current Focus: Specializing in cloud automation with Azure. \
+🚀 Blogging: Writing about tech, development, and automation to share insights and best practices. \
+🎮 Hobbies: Gaming, coding, photography, and constantly exploring new technologies to stay ahead of the curve.
 
 ### 🎉 Connect with Me
 

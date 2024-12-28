@@ -1,16 +1,15 @@
-# Hey, I'm Simon 🙋‍♂️
+# Hey, I'm Simon 🙋‍♂️  
 ![Github Welcome Header Image](https://github.com/smoonlee/smoonlee/blob/main/github-profile-header-image-mk1.png)
 
-### 👋 About Me
-I’m Ops and Infrastructure who transitioned into a Cloud/DevOps Consultant, with a deep passion for Azure and Automation. Although I still have a soft spot for Hyper-V, my focus is primarily on cloud technologies.
+### 👋 About Me  
+I’m an Ops and Infrastructure professional who transitioned into a Cloud/DevOps Consultant, specializing in Azure and automation. While I still have a soft spot for Hyper-V, my primary focus is on cloud technologies.
 
-💻 Current Focus: Specializing in cloud automation with Azure. \
-🚀 Blogging: Writing about tech, development, and automation to share insights and best practices. \
-🎮 Hobbies: Gaming, coding, photography, and constantly exploring new technologies to stay ahead of the curve.
+💻 **Current Focus**: Cloud automation with Azure.  
+🚀 **Blogging**: Sharing insights and best practices on tech, development, and automation.  
+🎮 **Hobbies**: Gaming, coding, photography, and staying ahead of the curve with new technologies.
 
-### 🎉 Connect with Me
-
-> Feel free to reach out or follow me on my socials:
+### 🎉 Connect with Me  
+Feel free to reach out or follow me on my socials:
 
 <p align="left">
   <a href="https://blog.builtwithcaffeine.cloud/"><img alt="Website" src="https://img.shields.io/badge/Blog-BuiltWithCaffeine-blue?style=for-the-badge"></a>
@@ -20,9 +19,7 @@ I’m Ops and Infrastructure who transitioned into a Cloud/DevOps Consultant, wi
   <a href="https://linktr.ee/smooney"><img alt="Linktr" src="https://img.shields.io/badge/linktr-smooney-blue?style=for-the-badge&logo=linktr"></a>
 </p>
 
-### 🧮 My GitHub Stats
-
-<p></p>
+### 🧮 My GitHub Stats  
 <a href="https://github.com/smoonlee">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=smoonlee&show_icons=true&line_height=27&count_private=true" alt="Simon’s GitHub Stats" height=192 />
 </a>
@@ -31,31 +28,28 @@ I’m Ops and Infrastructure who transitioned into a Cloud/DevOps Consultant, wi
 </a>
 <p></p>
 
-> Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+> *Note: Most Used languages reflect my public code's language distribution and not necessarily my skill level.*
 
 [![Simon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smoonlee&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 🧰 Tech Stack
+### 🧰 Tech Stack  
 
-| **Categories**            | **Technologies**                                        |
-|-------------------------|---------------------------------------------------------------|
-| **☁️** Cloud Platforms   | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure) |
-| **🛠️** Tools             | ![Azure CLI](https://img.shields.io/badge/Azure%20CLI-0089D6?style=flat-square&logo=azuredevops) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square&logo=azuredevops) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode) |
-| **💻** Programming Languages | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell) |
-| **🌐** Web Development   | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass) |
+| **Categories**            | **Technologies**                                          |
+|-------------------------|-----------------------------------------------------------|
+| **☁️ Cloud Platforms**   | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square) |
+| **🛠️ Tools**             | ![Azure CLI](https://img.shields.io/badge/Azure%20CLI-0089D6?style=flat-square) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square) |
+| **💻 Programming Languages** | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square) |
+| **🌐 Web Development**   | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square) |
 
 ### 👨‍💻 Tech Hardware
 
- - **Operating System**: Windows 11 Professional
- - **Laptop**: Dell XPS 15
- - **Desktop**: Custom Build
- - **Browser**: Microsoft Edge
- - **Terminal**: Windows Terminal
- - **Code Editor**: Visual Studio Code
- - **Extra Tools**: Docker, Postman, OneNote, Discord
+- **Operating System**: Windows 11 Professional  
+- **Laptop**: Dell XPS 15  
+- **Desktop**: Custom Build  
+- **Browser**: Microsoft Edge  
+- **Terminal**: Windows Terminal  
+- **Code Editor**: Visual Studio Code  
+- **Extra Tools**: Docker, Postman, OneNote, Discord
 
-### Support 
-
+### Support  
 [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20A%20Coffee&emoji=&slug=smoon_lee&button_colour=FF813F&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=ffffff)](https://www.buymeacoffee.com/smoonlee)
-
-

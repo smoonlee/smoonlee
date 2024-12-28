@@ -10,26 +10,15 @@ I'm a developer passionate about building scalable, efficient solutions. I love 
 
 ### 🎉 Connect with Me
 
-Feel free to reach out or follow me on my socials:
+> Feel free to reach out or follow me on my socials:
 
-<p align="center">
-  <a href="https://blog.builtwithcaffeine.cloud/">
-    <img alt="Website" src="https://img.shields.io/badge/Website-blog.builtwithcaffeine.cloud-blue?style=flat-square&logo=google-chrome">
-  </a>
-  <a href="https://www.linkedin.com/in/simon-john-lee/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-simonlee-blue?style=flat-square&logo=linkedin">
-  </a>
-  <a href="https://www.twitter.com/smoon_lee/">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-smoonlee-blue?style=flat-square&logo=twitter">
-  </a>
-  <a href="https://bsky.app/profile/smoonlee.bsky.social">
-    <img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-smoonlee-blue?style=flat-square&logo=bluesky">
-  </a>
-  <a href="https://linktr.ee/smooney">
-    <img alt="Linktr" src="https://img.shields.io/badge/linktr-smooney-blue?style=flat-square&logo=linktr">
-  </a>
+<p align="left">
+  <a href="https://blog.builtwithcaffeine.cloud/"><img alt="Website" src="https://img.shields.io/badge/Website-BuiltWithCaffeine-blue?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/simon-john-lee/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-simonlee-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://x.com/smoon_lee"><img alt="X" src="https://img.shields.io/badge/Twitter-smoonlee-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://bsky.app/profile/smoonlee.bsky.social"><img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-smoonlee-blue?style=for-the-badge&logo=bluesky"></a>
+  <a href="https://linktr.ee/smooney"><img alt="Linktr" src="https://img.shields.io/badge/linktr-smooney-blue?style=for-the-badge&logo=linktr"></a>
 </p>
-
 
 ### 🧮 My GitHub Stats
 
@@ -38,7 +27,7 @@ Feel free to reach out or follow me on my socials:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=smoonlee&show_icons=true&line_height=27&count_private=true" alt="Simon’s GitHub Stats" height=192 />
 </a>
 <a href="https://github.com/smoonlee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoonlee&layout=compact&langs_count=8" alt="Top Languages" height=192 />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoonlee&layout=compact&langs_count=10" alt="Top Languages" height=192 />
 </a>
 <p></p>
 
@@ -46,7 +35,7 @@ Feel free to reach out or follow me on my socials:
 
 [![Simon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smoonlee&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 🧰 Tech Stach
+### 🧰 Tech Stack
 
 | **Categories**            | **Technologies**                                        |
 |-------------------------|---------------------------------------------------------------|

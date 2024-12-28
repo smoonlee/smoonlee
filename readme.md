@@ -13,7 +13,7 @@ I'm a developer passionate about building scalable, efficient solutions. I love 
 > Feel free to reach out or follow me on my socials:
 
 <p align="left">
-  <a href="https://blog.builtwithcaffeine.cloud/"><img alt="Website" src="https://img.shields.io/badge/Website-BuiltWithCaffeine-blue?style=for-the-badge"></a>
+  <a href="https://blog.builtwithcaffeine.cloud/"><img alt="Website" src="https://img.shields.io/badge/Blog-BuiltWithCaffeine-blue?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/simon-john-lee/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-simonlee-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://x.com/smoon_lee"><img alt="X" src="https://img.shields.io/badge/Twitter-smoonlee-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://bsky.app/profile/smoonlee.bsky.social"><img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-smoonlee-blue?style=for-the-badge&logo=bluesky"></a>

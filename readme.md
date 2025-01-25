@@ -21,6 +21,13 @@ Feel free to reach out or follow me on my socials:
   <a href="https://linktr.ee/smooney"><img alt="Linktr" src="https://img.shields.io/badge/linktr-smooney-blue?style=for-the-badge&logo=linktr"></a>
 </p>
 
+---
+### 📚 Latest Blog Content
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+
 --- 
 ### 🧮 My GitHub Stats  
 <a href="https://github.com/smoonlee">

@@ -22,3 +22,5 @@ jobs:
           disable_item_validation: true
           item_exec: "if (!post.title) post = null;" #to skip post that dont have title
           date_format: yy-mm-dd
+          readme_path: "./readme.md"
+          committer_username: "bwc-contet-update"

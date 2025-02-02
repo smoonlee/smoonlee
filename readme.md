@@ -24,11 +24,11 @@ Feel free to reach out or follow me on my socials:
 ---
 ### 📚 Latest Blog Content
 <!-- BLOG-POST-LIST:START -->
+- [Customising Git Identity Per Repository](https://blog.builtwithcaffeine.cloud/posts/customising-git-identity/)
 - [Azure LogicApp: Fixing RSS Feeds](https://blog.builtwithcaffeine.cloud/posts/azure-logicapp-rss-patch/)
 - [Azure VMInsights: Why It’s Useful and How to Deploy It with Bicep](https://blog.builtwithcaffeine.cloud/posts/azure-vminsights-deployment-guide/)
 - [Azure DevOps: How to Use Self-Hosted Agents for Custom Pipelines](https://blog.builtwithcaffeine.cloud/posts/azure-devops-self-hosted-agents-custom-pipelines/)
 - [Azure DevOps: How to Pass Variables Between Jobs and Stages](https://blog.builtwithcaffeine.cloud/posts/azure-devops-passing-variables-between-jobs-and-stages/)
-- [GitHub Actions: How to Use Self-Hosted Runners for Custom Workflows](https://blog.builtwithcaffeine.cloud/posts/github-actions-self-hosted-runners-custom-workflows/)
 <!-- BLOG-POST-LIST:END -->
 
 

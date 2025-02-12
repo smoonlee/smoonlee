@@ -24,11 +24,11 @@ Feel free to reach out or follow me on my socials:
 ---
 ### 📚 Latest Blog Content
 <!-- BLOG-POST-LIST:START -->
+- [Azure Linux SSH Authentication: Configuring SSH Keys](https://blog.builtwithcaffeine.cloud/posts/linux-azure-configure-ssh-keys/)
 - [Azure Linux SSH Authentication: Passwords, Keys, and Entra ID](https://blog.builtwithcaffeine.cloud/posts/linux-azure-ssh-authentication/)
 - [Configuring DNSSEC for Azure DNS](https://blog.builtwithcaffeine.cloud/posts/azure-dnssec-configuration/)
 - [Customising Git Identity Per Repository](https://blog.builtwithcaffeine.cloud/posts/customising-git-identity/)
 - [Azure LogicApp: Fixing RSS Feeds](https://blog.builtwithcaffeine.cloud/posts/azure-logicapp-rss-patch/)
-- [Azure VMInsights: Why It’s Useful and How to Deploy It with Bicep](https://blog.builtwithcaffeine.cloud/posts/azure-vminsights-deployment-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 

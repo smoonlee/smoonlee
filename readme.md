@@ -24,11 +24,11 @@ Feel free to reach out or follow me on my socials:
 ---
 ### 📚 Latest Blog Content
 <!-- BLOG-POST-LIST:START -->
+- [CloudInit in Azure: Zero-Touch Automation with Bicep](https://blog.builtwithcaffeine.cloud/posts/azure-cloudinit-automation/)
 - [Handle Secrets with Special Characters Like a Pro](https://blog.builtwithcaffeine.cloud/posts/passing-secrets-with-special-characters/)
 - [Azure Linux SSH Authentication: Entra Id](https://blog.builtwithcaffeine.cloud/posts/linux-azure-configure-entra-id-access/)
 - [Azure Spring Clean 2025: Auditing Azure](https://blog.builtwithcaffeine.cloud/posts/azure-spring-clean-2025/)
 - [Azure Linux SSH Authentication: Bastion](https://blog.builtwithcaffeine.cloud/posts/linux-azure-configure-bastion-keyvault/)
-- [Azure Function App - Configuration Notes](https://blog.builtwithcaffeine.cloud/posts/azure-function-app-configuration-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 

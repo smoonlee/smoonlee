@@ -24,11 +24,11 @@ Feel free to reach out or follow me on my socials:
 ---
 ### 📚 Latest Blog Content
 <!-- BLOG-POST-LIST:START -->
+- [Creating Custom Chat Modes for GitHub Copilot in VS Code](https://blog.builtwithcaffeine.cloud/posts/vscode-custom-chat-mode/)
 - [How to Exclude Specific Posts from Hugo RSS Feeds](https://blog.builtwithcaffeine.cloud/posts/hugo-excluding-content-from-rss/)
 - [Privacy Policy](https://blog.builtwithcaffeine.cloud/privacy/)
 - [Azure Bicep: Update Management - Maintenance Configuration](https://blog.builtwithcaffeine.cloud/posts/aum-maintenance-configuration-bicep/)
 - [CloudInit in Azure: Zero-Touch Automation with Bicep](https://blog.builtwithcaffeine.cloud/posts/azure-cloudinit-automation/)
-- [Handle Secrets with Special Characters Like a Pro](https://blog.builtwithcaffeine.cloud/posts/passing-secrets-with-special-characters/)
 <!-- BLOG-POST-LIST:END -->
 
 

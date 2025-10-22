@@ -24,11 +24,11 @@ Feel free to reach out or follow me on my socials:
 ---
 ### 📚 Latest Blog Content
 <!-- BLOG-POST-LIST:START -->
+- [What are Bicep Decorators](https://blog.builtwithcaffeine.cloud/posts/2025-10-bicep-decorators/)
 - [Microsoft.Graph - Custom Bicep Modules](https://blog.builtwithcaffeine.cloud/posts/bicep-microsoft-graph-custom-modules/)
 - [Creating Custom Chat Modes for GitHub Copilot in VS Code](https://blog.builtwithcaffeine.cloud/posts/vscode-custom-chat-mode/)
 - [How to Exclude Specific Posts from Hugo RSS Feeds](https://blog.builtwithcaffeine.cloud/posts/hugo-excluding-content-from-rss/)
 - [Privacy Policy](https://blog.builtwithcaffeine.cloud/privacy/)
-- [Azure Bicep: Update Management - Maintenance Configuration](https://blog.builtwithcaffeine.cloud/posts/aum-maintenance-configuration-bicep/)
 <!-- BLOG-POST-LIST:END -->
 
 

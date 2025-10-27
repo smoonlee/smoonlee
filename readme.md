@@ -24,11 +24,11 @@ Feel free to reach out or follow me on my socials:
 ---
 ### 📚 Latest Blog Content
 <!-- BLOG-POST-LIST:START -->
+- [Nginx Ingress Deployment - AKS 101](https://blog.builtwithcaffeine.cloud/posts/aks-nginx-ingress-helm/)
 - [Hugo - Enhanced Code Fencing Shortcode](https://blog.builtwithcaffeine.cloud/posts/hugo-enhanced-code-fencing-shortcode/)
 - [What are Bicep Decorators](https://blog.builtwithcaffeine.cloud/posts/2025-10-bicep-decorators/)
 - [Microsoft.Graph - Custom Bicep Modules](https://blog.builtwithcaffeine.cloud/posts/bicep-microsoft-graph-custom-modules/)
 - [Creating Custom Chat Modes for GitHub Copilot in VS Code](https://blog.builtwithcaffeine.cloud/posts/vscode-custom-chat-mode/)
-- [How to Exclude Specific Posts from Hugo RSS Feeds](https://blog.builtwithcaffeine.cloud/posts/hugo-excluding-content-from-rss/)
 <!-- BLOG-POST-LIST:END -->
 
 

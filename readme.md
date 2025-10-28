@@ -3,11 +3,14 @@
 
 ---
 ### 👋 About Me  
-I’m an Ops and Infrastructure professional who transitioned into a Cloud/DevOps Consultant, specializing in Azure and automation. While I still have a soft spot for Hyper-V, my primary focus is on cloud technologies.
+I’m an Ops and Infrastructure professional turned Cloud & DevOps Consultant, with a passion for automation, Azure, and community. \
+As a Microsoft MVP in DevOps, I’m focused on helping others build scalable, automated, and secure environments through Infrastructure-as-Code, CI/CD, and modern DevOps practices.
 
-💻 **Current Focus**: Cloud automation with Azure.  
-🚀 **Blogging**: Sharing insights and best practices on tech, development, and automation.  
-🎮 **Hobbies**: Gaming, coding, photography, and staying ahead of the curve with new technologies.
+🏆 Microsoft MVP (DevOps) — Recognized for community contributions in Azure DevOps, automation, and Infrastructure-as-Code. \
+☁️ Focus Areas: Azure Automation, Infrastructure-as-Code (Bicep & AVM), GitHub Actions, and Azure DevOps Pipelines. \
+🎒 Community Work: Speaker, blogger, and open-source contributor to Bicep and automation tooling. \
+📝 Blog: BuiltWithCaffeine.cloud — deep dives on Azure, DevOps, and cloud automation. \
+🎮 Outside of Tech: Gaming, photography, and exploring new tech (usually with too much caffeine ☕).
 
 ---
 ### 🎉 Connect with Me  

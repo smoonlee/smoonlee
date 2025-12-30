@@ -34,14 +34,13 @@ Feel free to reach out or follow me on my socials:
 - [Creating Custom Chat Modes for GitHub Copilot in VS Code](https://blog.builtwithcaffeine.cloud/posts/vscode-custom-chat-mode/)
 <!-- BLOG-POST-LIST:END -->
 
-
 --- 
 ### 🧮 My GitHub Stats  
 <a href="https://github.com/smoonlee">
-  <img align="center" src="https://github-readme-stats-smoonlees-projects.vercel.app/api?username=smoonlee&show_icons=true&line_height=30" alt="Simon’s GitHub Stats" height=192 />
+  <img align="center" src="https://github-readme-stats-tan-chi-r4nicz9df5.vercel.app/api?username=smoonlee&show_icons=true&line_height=27" alt="Simon’s GitHub Stats" height=192 />
 </a>
 <a href="https://github.com/smoonlee">
-  <img align="center" src="https://github-readme-stats-smoonlees-projects.vercel.app/api/top-langs/?username=smoonlee&layout=compact&langs_count=10" alt="Top Languages" height=192 />
+  <img align="center" src="https://github-readme-stats-tan-chi-r4nicz9df5.vercel.app/api/top-langs/?username=smoonlee&layout=compact&langs_count=10" alt="Top Languages" height=192 />
 </a>
 <p></p>
 

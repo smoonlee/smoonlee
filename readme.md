@@ -38,10 +38,10 @@ Feel free to reach out or follow me on my socials:
 --- 
 ### 🧮 My GitHub Stats  
 <a href="https://github.com/smoonlee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smoonlee&show_icons=true&line_height=27&count_private=true" alt="Simon’s GitHub Stats" height=192 />
+  <img align="center" src="https://github-readme-stats-smoonlees-projects.vercel.app/api?username=smoonlee&show_icons=true&line_height=27&count_private=true" alt="Simon’s GitHub Stats" height=192 />
 </a>
 <a href="https://github.com/smoonlee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoonlee&layout=compact&langs_count=10" alt="Top Languages" height=192 />
+  <img align="center" src="https://github-readme-stats-smoonlees-projects.vercel.app/api/top-langs/?username=smoonlee&layout=compact&langs_count=10" alt="Top Languages" height=192 />
 </a>
 <p></p>
 

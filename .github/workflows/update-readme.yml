@@ -26,6 +26,6 @@ jobs:
           disable_item_validation: true
           item_exec: "if (!post.title) post = null;"
           date_format: yy-mm-dd
-          readme_path: "./README.md"
+          readme_path: "./readme.md"
           committer_username: "bwc-content-update"
           committer_email: "bwc-content-update@users.noreply.github.com"

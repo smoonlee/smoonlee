@@ -1,11 +1,15 @@
 name: Latest blog post workflow
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
-permissions:
-  contents: write # To write the generated contents to the readme
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme-blog
+  cancel-in-progress: false
 
 jobs:
   update-readme-with-blog:
@@ -13,14 +17,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
-        
+        uses: actions/checkout@v6.0.2
+
       - name: Update README with Blog Posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@v1.9.6
         with:
           feed_list: "https://blog.builtwithcaffeine.cloud/rss.xml"
           disable_item_validation: true
-          item_exec: "if (!post.title) post = null;" #to skip post that dont have title
+          item_exec: "if (!post.title) post = null;"
           date_format: yy-mm-dd
-          readme_path: "./readme.md"
+          readme_path: "./README.md"
           committer_username: "bwc-content-update"
+          committer_email: "bwc-content-update@users.noreply.github.com"

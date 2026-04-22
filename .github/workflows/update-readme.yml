@@ -17,10 +17,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v6
 
       - name: Update README with Blog Posts
-        uses: gautamkrishnar/blog-post-workflow@v1.9.6
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.builtwithcaffeine.cloud/rss.xml"
           disable_item_validation: true

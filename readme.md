@@ -27,11 +27,11 @@ Feel free to reach out or follow me on my socials:
 ---
 ### 📚 Latest Blog Content
 <!-- BLOG-POST-LIST:START -->
+- [Bicep v0.44.1: Better Parameter Files and Safer Existing Resource Lookups](https://blog.builtwithcaffeine.cloud/posts/bicep-0-44-1-release/)
 - [Practical OpenSSL: Essential Commands for SSL Certificate Management](https://blog.builtwithcaffeine.cloud/posts/openssl-commands-config/)
 - [Azure Spring Clean 2026: OpenTelemetry Metrics](https://blog.builtwithcaffeine.cloud/posts/azure-spring-clean-2026/)
 - [Oh My Posh Profile Update – Kicking Off 2026 🎉](https://blog.builtwithcaffeine.cloud/posts/oh-my-posh-profile-updated/)
 - [Nginx Ingress Deployment - AKS 101](https://blog.builtwithcaffeine.cloud/posts/aks-nginx-ingress-helm/)
-- [Hugo - Enhanced Code Fencing Shortcode](https://blog.builtwithcaffeine.cloud/posts/hugo-enhanced-code-fencing-shortcode/)
 <!-- BLOG-POST-LIST:END -->
 
 --- 

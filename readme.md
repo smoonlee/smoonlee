@@ -27,11 +27,11 @@ Feel free to reach out or follow me on my socials:
 ---
 ### 📚 Latest Blog Content
 <!-- BLOG-POST-LIST:START -->
+- [Azure Application Gateway: An Introduction](https://blog.builtwithcaffeine.cloud/posts/azure-application-gateway-introduction/)
 - [MSGraph - Custom User Module - Including B2B Guest Accounts](https://blog.builtwithcaffeine.cloud/posts/msgraph-bicep-guest-user-lookup/)
 - [Azure Firewall: Stop &amp; Start to Save Lab Costs](https://blog.builtwithcaffeine.cloud/posts/azure-firewall-stop-start-lab-savings/)
 - [MSGraph - Custom Security Group Module](https://blog.builtwithcaffeine.cloud/posts/msgraph-custom-module/)
 - [Bridging the Gap: Using Bicep Deployment Scripts to Create Entra Security Groups and Assign Entra Roles](https://blog.builtwithcaffeine.cloud/posts/bicep-entra-group-role-assignment-deployment-scripts/)
-- [Bicep v0.44.1: Better Parameter Files and Safer Existing Resource Lookups](https://blog.builtwithcaffeine.cloud/posts/bicep-0-44-1-release/)
 <!-- BLOG-POST-LIST:END -->
 
 --- 

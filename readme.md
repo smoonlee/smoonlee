@@ -2,7 +2,7 @@
 ![github-profile](https://github.com/user-attachments/assets/6ec2af58-9865-490b-b383-b4e3e3b5bf71)
 
 ---
-### 👋 About Me
+## 👋 About Me
 I’m an Ops and Infrastructure professional turned Cloud & DevOps Consultant, with a passion for automation, Azure, and community. \
 As a Microsoft MVP in DevOps, I’m focused on helping others build scalable, automated, and secure environments through Infrastructure-as-Code, CI/CD, and modern DevOps practices.
 
@@ -13,7 +13,7 @@ As a Microsoft MVP in DevOps, I’m focused on helping others build scalable, au
 🎮 Outside of Tech: Gaming, photography, and exploring new tech (usually with too much caffeine ☕).
 
 ---
-### 🎉 Connect with Me
+## 🎉 Connect with Me
 Feel free to reach out or follow me on my socials:
 
 <p align="left">
@@ -25,7 +25,7 @@ Feel free to reach out or follow me on my socials:
 </p>
 
 ---
-### 📚 Latest Blog Content
+## 📚 Latest Blog Content
 <!-- BLOG-POST-LIST:START -->
 - [GitHub Actions OIDC: Moving to Immutable Subject Claims](https://blog.builtwithcaffeine.cloud/posts/github-actions-immutable-subject-claims/)
 - [Azure Application Gateway: An Introduction](https://blog.builtwithcaffeine.cloud/posts/azure-application-gateway-introduction/)
@@ -35,21 +35,20 @@ Feel free to reach out or follow me on my socials:
 <!-- BLOG-POST-LIST:END -->
 
 ---
-### 🧮 My GitHub Stats
+## 🧮 My GitHub Stats
+Here’s a snapshot of my public GitHub activity and the languages used across my repositories.
+
 <a href="https://github.com/smoonlee">
-  <img align="center" src="https://github-stats-extended.vercel.app/api?username=smoonlee&show_icons=true&line_height=27" alt="Simon’s GitHub Stats" height=192 />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=smoonlee&show_icons=true&line_height=27&theme_light=light_github&theme_dark=dark_github" alt="Simon’s GitHub Stats" height="192" />
 </a>
 <a href="https://github.com/smoonlee">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=smoonlee&layout=compact&langs_count=10" alt="Top Languages" height=192 />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=smoonlee&layout=compact&langs_count=8&theme_light=light_github&theme_dark=dark_github" alt="Top Languages" height="192" />
 </a>
-<p></p>
 
-> *Note: Most Used Languages reflect my public code's language distribution and not necessarily my skill level.*
-
-[![Simon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smoonlee&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+> *Most Used Languages reflects my public code’s language distribution, not necessarily my skill level.*
 
 ---
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 | **Categories**            | **Technologies**                                          |
 |-------------------------|-----------------------------------------------------------|
@@ -59,7 +58,7 @@ Feel free to reach out or follow me on my socials:
 | **🌐 Web Development**   | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square) |
 
 ---
-### 👨‍💻 Tech Hardware
+## 👨‍💻 Tech Hardware
 
 - **Operating System**: Windows 11 Professional
 - **Laptop**: Dell XPS 15
@@ -70,5 +69,5 @@ Feel free to reach out or follow me on my socials:
 - **Extra Tools**: Docker, Postman, OneNote, Discord
 
 ---
-### Support
+## Support
 [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20A%20Coffee&emoji=&slug=smoon_lee&button_colour=FF813F&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=ffffff)](https://www.buymeacoffee.com/smoon_lee)

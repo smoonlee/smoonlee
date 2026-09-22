@@ -45,6 +45,8 @@ Here’s a snapshot of my public GitHub activity and the languages used across m
   <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=smoonlee&layout=compact&langs_count=8&theme_light=light_github&theme_dark=dark_github" alt="Top Languages" height="192" />
 </a>
 
+<p>
+
 > *Most Used Languages reflects my public code’s language distribution, not necessarily my skill level.*
 
 ---

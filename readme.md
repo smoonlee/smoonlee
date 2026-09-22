@@ -1,8 +1,8 @@
-# Hey, I'm Simon 🙋‍♂️  
+# Hey, I'm Simon 🙋‍♂️
 ![github-profile](https://github.com/user-attachments/assets/6ec2af58-9865-490b-b383-b4e3e3b5bf71)
 
 ---
-### 👋 About Me  
+### 👋 About Me
 I’m an Ops and Infrastructure professional turned Cloud & DevOps Consultant, with a passion for automation, Azure, and community. \
 As a Microsoft MVP in DevOps, I’m focused on helping others build scalable, automated, and secure environments through Infrastructure-as-Code, CI/CD, and modern DevOps practices.
 
@@ -13,7 +13,7 @@ As a Microsoft MVP in DevOps, I’m focused on helping others build scalable, au
 🎮 Outside of Tech: Gaming, photography, and exploring new tech (usually with too much caffeine ☕).
 
 ---
-### 🎉 Connect with Me  
+### 🎉 Connect with Me
 Feel free to reach out or follow me on my socials:
 
 <p align="left">
@@ -34,13 +34,13 @@ Feel free to reach out or follow me on my socials:
 - [MSGraph - Custom Security Group Module](https://blog.builtwithcaffeine.cloud/posts/msgraph-custom-module/)
 <!-- BLOG-POST-LIST:END -->
 
---- 
-### 🧮 My GitHub Stats  
+---
+### 🧮 My GitHub Stats
 <a href="https://github.com/smoonlee">
-  <img align="center" src="https://github-readme-stats-tan-chi-r4nicz9df5.vercel.app/api?username=smoonlee&show_icons=true&line_height=27" alt="Simon’s GitHub Stats" height=192 />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=smoonlee&show_icons=true&line_height=27" alt="Simon’s GitHub Stats" height=192 />
 </a>
 <a href="https://github.com/smoonlee">
-  <img align="center" src="https://github-readme-stats-tan-chi-r4nicz9df5.vercel.app/api/top-langs/?username=smoonlee&layout=compact&langs_count=10" alt="Top Languages" height=192 />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=smoonlee&layout=compact&langs_count=10" alt="Top Languages" height=192 />
 </a>
 <p></p>
 
@@ -49,7 +49,7 @@ Feel free to reach out or follow me on my socials:
 [![Simon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smoonlee&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-### 🧰 Tech Stack  
+### 🧰 Tech Stack
 
 | **Categories**            | **Technologies**                                          |
 |-------------------------|-----------------------------------------------------------|
@@ -61,14 +61,14 @@ Feel free to reach out or follow me on my socials:
 ---
 ### 👨‍💻 Tech Hardware
 
-- **Operating System**: Windows 11 Professional  
-- **Laptop**: Dell XPS 15  
-- **Desktop**: Custom Build  
-- **Browser**: Microsoft Edge  
-- **Terminal**: Windows Terminal  
-- **Code Editor**: Visual Studio Code  
+- **Operating System**: Windows 11 Professional
+- **Laptop**: Dell XPS 15
+- **Desktop**: Custom Build
+- **Browser**: Microsoft Edge
+- **Terminal**: Windows Terminal
+- **Code Editor**: Visual Studio Code
 - **Extra Tools**: Docker, Postman, OneNote, Discord
 
 ---
-### Support  
+### Support
 [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20Me%20A%20Coffee&emoji=&slug=smoon_lee&button_colour=FF813F&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=ffffff)](https://www.buymeacoffee.com/smoon_lee)
